@@ -29,7 +29,7 @@
 
 };
 ```
-![img](http://www.sysnote.org/2014/06/20/bcache-analysis/bkey.png)
+![img](img/bkey.png)
 
 其中：
 
